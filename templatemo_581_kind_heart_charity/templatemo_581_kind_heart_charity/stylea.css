@@ -1,0 +1,31 @@
+ .texte {
+     margin: 0;
+ }
+ 
+ .col-md-4 {
+     background-color: #eaeaea;
+     border-radius: 6px;
+     color: #020e26;
+     padding: 16px;
+     overflow: hidden;
+     transition: 0.6s;
+     transform: translate(0);
+     font-weight: 400;
+ }
+ 
+ .col-md-4::before {
+     content: "";
+     position: absolute;
+     top: -75px;
+     left: -45px;
+     z-index: -1;
+     background: linear-gradient( to right, #13d6b9, #36bf9d);
+     border-radius: 50%;
+     width: 200px;
+     height: 200px;
+     transition: 0.6s;
+ }
+ 
+ .col-md-4:hover::before {
+     transform: scale(4.5);
+ }

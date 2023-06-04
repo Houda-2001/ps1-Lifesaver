@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+    <title>
+
+    </title>
+    <body>
+        <form>
+            <fieldset name="liste">
+                <legend> Formulaire d'inscripition</legend>
+                <label for="nom"> Nom:</label>
+                <input type="text"id="nom" name="login" placeholder="saisir votre nom"/>
+                <label for="prenom"> Pr&eacute;nom:</label>
+                <input type="text"id="prenom" name="login" placeholder="saisir votre Pr&eacute;nom "/>
+                <label for="date"> Date de naissance:</label>
+                <input type="date"id="date" name="datenaissance" />
+                <label for="motdepasse"> Mot de passe:</label>
+                <input type="password"id="motdepasse" name="secret" value="secret"/>
+                <label for="motdepasse"> Confirmer le mot de passe:</label>
+                <input type="password"id="motdepasse" name="secret" value="secret"/>
+            
+            
+    
+                
+
+            </fieldset>
+        </form>
+    </body>
+</html>

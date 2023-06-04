@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="front ptojet semestriel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/google-maps-by-php-guru.zip!/" />
+      <root url="jar://$PROJECT_DIR$/google_map_api_with_php_source.zip!/" />
+      <root url="jar://$PROJECT_DIR$/login system.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Responsive Card Slider.zip!/" />
+      <root url="jar://$PROJECT_DIR$/service box.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
